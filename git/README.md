@@ -1,1 +1,2 @@
-This is the README file for the git directory
+My first readme
+Only Time allowed to update and commit from GitHub interface
